@@ -9,7 +9,7 @@
     //Senha de acesso
     $strServerPassword = "123";
     //Caminho do arquivo local
-    $file = 'folder/test.txt';
+    $file = 'test.txt';
     //Caminho do arquivo no servidor
     $remote_file = 'html/test.txt';
 
