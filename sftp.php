@@ -3,7 +3,7 @@
 	include 'sftp/Net/SFTP.php';
 
     //IP do servidor
-	$strServer = "192.168.1.1";
+    $strServer = "192.168.1.1";
     //Usuário de acesso
     $strServerUsername = "user";
     //Senha de acesso
